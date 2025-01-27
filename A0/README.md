@@ -20,10 +20,11 @@ The function `omp_gaussian_kde` contains two nested loops:
 - The outer loop runs for `n` times, once for each element in vector `x`.  
 - The inner loop's number of iterations depends on values `f` and `l`, which are influenced by `k`.  
 
-Additionally, the code can be parallelized across `p` processors.
+Additionally, the code can be parallelized across \( p \) processors.
 
-- **Time Complexity (Sequential)**: \( O(n \cdot k) \)  
-- **Time Complexity (Parallel)**: \( O(n \cdot k / p) \)
+- **Time Complexity (Sequential)**: \( O(n \cdot k) \)
+- **Time Complexity (Parallel)**: \( O\left(\frac{n \cdot k}{p}\right) \)
+
 
 ---
 
