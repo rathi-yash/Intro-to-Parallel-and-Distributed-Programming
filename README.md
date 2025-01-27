@@ -1,11 +1,12 @@
 # Introduction to Parallel and Distributed Programming
 
-This repository contains solutions and reports for assignments completed during the [Semester, Year] of the **Introduction to Parallel and Distributed Programming** course at the University at Buffalo. The course focused on leveraging modern parallel systems, including multi-core processors, GPUs, and distributed memory clusters, using tools such as OpenMP, CUDA, and MPI.
+This repository contains solutions and reports for assignments completed during the Fall 2024 of the **Introduction to Parallel and Distributed Programming** course at the University at Buffalo. The course focused on leveraging modern parallel systems, including multi-core processors, GPUs, and distributed memory clusters, using tools such as OpenMP, CUDA, and MPI.
 
 ## **Course Details**
 - **Instructor**: Dr. Jaroslaw Zola
 - **Institution**: University at Buffalo
 - **Platform Used**: UB CCR (Center for Computational Research)
+- **Course Website:** [https://cse.buffalo.edu/~jzola/IntroPDP/](https://cse.buffalo.edu/~jzola/IntroPDP/)
 - **Tools and Technologies**: C++, OpenMP, CUDA, MPI
 
 ## **Assignments**
@@ -48,4 +49,4 @@ All solutions and materials in this repository are copyrighted by the instructor
 The author is not responsible for any misuse or unauthorized distribution of these materials. Users must comply with ethical standards and academic policies.
 
 ## **License**
-This repository is licensed under an [All Rights Reserved License]. The content is shared solely for showcasing skills and knowledge gained during the course.
+This repository is licensed under an [All Rights Reserved License](LICENSE). The content is shared solely for showcasing skills and knowledge gained during the course.
